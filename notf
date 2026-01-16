@@ -1,6 +1,27 @@
-{
-  "version": "4.4.0",
-  "title": "Atualização obrigatória",
-  "message": "Esta versão contém ajustes críticos de segurança.",
-  "force": true
-}
+[
+  {
+    "id": "upd-001",
+    "type": "update",
+    "title": "Atualização disponível",
+    "message": "Nova versão com melhorias de desempenho.",
+    "version": "1.2.0",
+    "force": false,
+    "date": "2026-01-16"
+  },
+  {
+    "id": "sys-002",
+    "type": "warning",
+    "title": "Manutenção programada",
+    "message": "Sistema indisponível amanhã das 22h às 23h.",
+    "force": false,
+    "date": "2026-01-17"
+  },
+  {
+    "id": "sys-003",
+    "type": "critical",
+    "title": "Atualização obrigatória",
+    "message": "Correção crítica de segurança.",
+    "force": true,
+    "date": "2026-01-18"
+  }
+]
