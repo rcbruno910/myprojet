@@ -1,7 +1,6 @@
 {
-  "version": "1.1.0",
-  "title": "Atualização disponível",
-  "message": "Nova versão com melhorias de estabilidade e performance.",
-  "force": false,
-  "duration": 8000
+  "version": "1.2.0",
+  "title": "Atualização obrigatória",
+  "message": "Esta versão contém ajustes críticos de segurança.",
+  "force": true
 }
