@@ -1,26 +1,5 @@
-[
-  {
-    "id": "001",
-    "type": "info",
-    "title": "Aviso operacional",
-    "message": "Atualização de rotina concluída com sucesso.",
-    "force": false,
-    "date": "16/01/2026"
-  },
-  {
-    "id": "002",
-    "type": "warning",
-    "title": "Manutenção programada",
-    "message": "Sistema indisponível amanhã das 22h às 23h.",
-    "force": false,
-    "date": "17/01/2026"
-  },
-  {
-    "id": "003",
-    "type": "critical",
-    "title": "Atualização obrigatória",
-    "message": "Correção crítica de segurança. Atualize imediatamente.",
-    "force": true,
-    "date": "18/01/2026"
-  }
-]
+{
+  "version": "1.2.0",
+  "url": "/",
+  "message": "Nova versão com melhorias e correções."
+}
